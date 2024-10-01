@@ -1,3 +1,5 @@
+Instalacja: https://www.youtube.com/watch?v=mXyN1aJYefc
+
 ### **Podstawowe komendy**
 - `ls` - listowanie plików i katalogów
 - `mkdir` - tworzenie nowego katalogu

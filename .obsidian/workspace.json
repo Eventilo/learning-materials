@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - environment setup/Checklist.md",
+                "file": "1 - environment setup/Ubuntu.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "022af0d346706776",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e3f8382d7a03e42a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - environment setup/Checklist.md",
+                "file": "1 - environment setup/Ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - environment setup/Checklist.md",
+                "file": "1 - environment setup/Ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - environment setup/Checklist.md"
+                "file": "1 - environment setup/Ubuntu.md"
               }
             }
           }
@@ -163,14 +149,14 @@
   "active": "cfdce9ed3bc9807c",
   "lastOpenFiles": [
     "1 - environment setup/Docker.md",
-    "1 - environment setup/Uvicorn.md",
-    "1 - environment setup/Ubuntu.md",
-    "Week 1 - project setup/SQLAlchemy.md",
-    "2 - project setup",
-    "1 - environment setup/poetry.md",
+    "1 - environment setup/Checklist.md",
     "1 - environment setup/pipx.md",
     "1 - environment setup/Ssh key.md",
-    "1 - environment setup/Checklist.md",
+    "1 - environment setup/poetry.md",
+    "1 - environment setup/Ubuntu.md",
+    "1 - environment setup/Uvicorn.md",
+    "Week 1 - project setup/SQLAlchemy.md",
+    "2 - project setup",
     "1 - environment setup",
     "Week 1 - project setup/Ruff.md",
     "Week 1 - project setup/Mypy.md",
