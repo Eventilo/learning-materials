@@ -1,0 +1,1 @@
+**Uvicorn** to serwer ASGI (Asynchronous Server Gateway Interface) używany do uruchamiania aplikacji stworzonych w FastAPI

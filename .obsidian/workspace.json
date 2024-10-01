@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1 - project setup/SQLAlchemy.md",
+                "file": "1 - environment setup/Checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1 - project setup/SQLAlchemy.md",
+                "file": "1 - environment setup/Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1 - project setup/SQLAlchemy.md",
+                "file": "1 - environment setup/Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1 - project setup/SQLAlchemy.md"
+                "file": "1 - environment setup/Checklist.md"
               }
             }
           }
@@ -162,12 +162,21 @@
   },
   "active": "cfdce9ed3bc9807c",
   "lastOpenFiles": [
+    "1 - environment setup/Docker.md",
+    "1 - environment setup/Uvicorn.md",
+    "1 - environment setup/Ubuntu.md",
+    "Week 1 - project setup/SQLAlchemy.md",
+    "2 - project setup",
+    "1 - environment setup/poetry.md",
+    "1 - environment setup/pipx.md",
+    "1 - environment setup/Ssh key.md",
+    "1 - environment setup/Checklist.md",
+    "1 - environment setup",
     "Week 1 - project setup/Ruff.md",
     "Week 1 - project setup/Mypy.md",
     "Week 1 - project setup/GitHub.md",
     "Week 1 - project setup/Alembic.md",
     "Week 1 - project setup/Docker.md",
-    "Week 1 - project setup/SQLAlchemy.md",
     "Eventilo.md",
     "Week 1 - project setup.md",
     "Week 1 - project setup"

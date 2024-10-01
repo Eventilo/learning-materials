@@ -1,0 +1,6 @@
+- [ ] Uruchomienie Ubuntu
+- [ ] Instalacja Dockera
+- [ ] Pobranie FE Z GitHuba
+- [ ] Uruchomienie FE za pomocą docker compose
+- [ ] Instalacja pipx i poetry
+- [ ] Postawianie kontenerów z api i bazą danych
