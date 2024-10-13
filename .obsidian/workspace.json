@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - project setup/Checklist.md",
+                "file": "2 - project setup/GH Actions + CI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - project setup/Checklist.md",
+                "file": "2 - project setup/GH Actions + CI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - project setup/Checklist.md",
+                "file": "2 - project setup/GH Actions + CI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - project setup/Checklist.md"
+                "file": "2 - project setup/GH Actions + CI.md"
               }
             }
           }
@@ -148,17 +148,22 @@
   },
   "active": "cfdce9ed3bc9807c",
   "lastOpenFiles": [
+    "2 - project setup/Mypy.md",
+    "2 - project setup/Ruff.md",
+    "2 - project setup/side notes.md",
+    "2 - project setup/GH Actions + CI.md",
+    "2 - project setup/SQLAlchemy.md",
+    "2 - project setup/Checklist.md",
     "1 - environment setup/side notes.md",
-    "1 - environment setup/Docker.md",
     "1 - environment setup/Ubuntu.md",
+    "1 - environment setup/Ssh key.md",
+    "1 - environment setup/Docker.md",
     "1 - environment setup/Checklist.md",
     "1 - environment setup/pipx.md",
     "1 - environment setup/poetry.md",
-    "1 - environment setup/Ssh key.md",
     "1 - environment setup/side_notes/1 - docker.md",
     "1 - environment setup/side_notes/3 - poetry.md",
     "1 - environment setup/side_notes/2 - pipx.md",
-    "2 - project setup/Checklist.md",
     "1 - environment setup/side_notes/1 - docker",
     "1 - environment setup/side_notes",
     "3 - auth",
