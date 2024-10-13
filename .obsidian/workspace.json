@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - environment setup/Ubuntu.md",
+                "file": "2 - project setup/Checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - environment setup/Ubuntu.md",
+                "file": "2 - project setup/Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - environment setup/Ubuntu.md",
+                "file": "2 - project setup/Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - environment setup/Ubuntu.md"
+                "file": "2 - project setup/Checklist.md"
               }
             }
           }
@@ -148,12 +148,21 @@
   },
   "active": "cfdce9ed3bc9807c",
   "lastOpenFiles": [
+    "1 - environment setup/side notes.md",
     "1 - environment setup/Docker.md",
+    "1 - environment setup/Ubuntu.md",
     "1 - environment setup/Checklist.md",
     "1 - environment setup/pipx.md",
-    "1 - environment setup/Ssh key.md",
     "1 - environment setup/poetry.md",
-    "1 - environment setup/Ubuntu.md",
+    "1 - environment setup/Ssh key.md",
+    "1 - environment setup/side_notes/1 - docker.md",
+    "1 - environment setup/side_notes/3 - poetry.md",
+    "1 - environment setup/side_notes/2 - pipx.md",
+    "2 - project setup/Checklist.md",
+    "1 - environment setup/side_notes/1 - docker",
+    "1 - environment setup/side_notes",
+    "3 - auth",
+    "2 - project setup/Untitled",
     "1 - environment setup/Uvicorn.md",
     "Week 1 - project setup/SQLAlchemy.md",
     "2 - project setup",

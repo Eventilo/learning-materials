@@ -1,0 +1,9 @@
+- [ ] Ruff
+- [ ] Mypy
+- [ ] Gh Actions
+- [ ] SQLAlchemy
+- [ ] Alembic
+- [ ] psycopg2
+- [ ] pydantic_settings
+- [ ] pytest
+- [ ] factory-boy 
