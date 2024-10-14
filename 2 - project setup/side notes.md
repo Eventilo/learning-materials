@@ -1,4 +1,4 @@
-# (previous week)
+
 
 **`.:/code`** (Bind Mount): Mapowanie lokalnego katalogu z kodem na katalog w kontenerze. Służy głównie do pracy deweloperskiej, aby natychmiast wprowadzać zmiany w kontenerze.
 
@@ -8,7 +8,7 @@ add
       - .:/code
 
 
-
+(wersja bez named volume):
 ```yaml
 services:
   db:
@@ -44,12 +44,11 @@ CREATE TABLE cars (
 );
 ```
 
-docker stop rm 
-docker compose up --build
 
 **`postgres_data:/var/lib/postgresql/data`** (Named Volume): Trwały wolumen zarządzany przez Dockera, służący do przechowywania danych bazy danych, które powinny przetrwać restart lub usunięcie kontenera.
 
 
+(wersja z named volume):
 ```yaml
 services:
   db:
@@ -77,12 +76,10 @@ volumes:
 ```
 
 
-# This week
-
 
 Ruff check i ruff format
 
-mypy i funkcja z dodawaniem (plus flaga strict)
+mypy
 
 konfiguracja GH actions
 
@@ -131,82 +128,3 @@ jobs:
 
 ```
 
-
-
-poetry add sqlalchemy alembic psycopg2-binary
-
-
-moduł database i plik connection.py i model base declarative base orm
-
-
-conncetion.py
-```python
-from sqlalchemy import create_engine
-from .config import settings
-
-DATABASE_URL = "postgresql+psycopg2://{user}:{password}@{host}:{port}/{name}".format(
-    user="week_2",
-    password="week_2",
-    host="db",
-    port=5432,
-    name="week_2",
-)
-
-engine = create_engine(DATABASE_URL)
-```
-
-
-```python
-from sqlalchemy.orm import DeclarativeBase
-
-
-class Base(DeclarativeBase):
-    pass
-
-```
-
-
-create users model with username
-
-
-```python
-from sqlalchemy import Integer, String
-from sqlalchemy.orm import mapped_column, Mapped
-from app.database.model import Base
-
-
-class User(Base):
-    __tablename__ = "users"
-
-    id: Mapped[int] = mapped_column(Integer, primary_key=True)
-    username: Mapped[str] = mapped_column(String, unique=True)
-```
-
-alembic init alembic
-
-w run_migrations_offline podmieć url bazy
-
-w online:
-configuration = config.get_section(config.config_ini_section)
-configuration["sqlalchemy.url"] = DATABASE_URL
-
-
-poetry
-
-```
-from pydantic_settings import BaseSettings, SettingsConfigDict
-
-
-class Settings(BaseSettings):
-    DATABASE_NAME: str = "week_2"
-    DATABASE_USER: str = "week_2"
-    DATABASE_PASSWORD: str = "week_2"
-    DATABASE_HOST: str = "db"
-    DATABASE_PORT: str = "5432"
-
-    model_config = SettingsConfigDict(env_file=".env", extra="ignore")
-
-
-settings = Settings()
-
-```
