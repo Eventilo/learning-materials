@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - project setup/full setup so for.md",
+                "file": "2 - project setup/full setup so far.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - project setup/full setup so for.md",
+                "file": "2 - project setup/full setup so far.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - project setup/full setup so for.md",
+                "file": "2 - project setup/full setup so far.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - project setup/full setup so for.md"
+                "file": "2 - project setup/full setup so far.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "cfdce9ed3bc9807c",
   "lastOpenFiles": [
     "3 - DB + Tests + CI/side notes.md",
-    "2 - project setup/full setup so for.md",
+    "2 - project setup/full setup so far.md",
     "3 - DB + Tests + CI/Checklist.md",
     "3 - DB + Tests + CI/Untitled.md",
     "Untitled.md",
