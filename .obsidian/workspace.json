@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - project setup/Named volumes & Bind mounts.md",
+                "file": "2 - project setup/full setup so for.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - project setup/Named volumes & Bind mounts.md",
+                "file": "2 - project setup/full setup so for.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - project setup/Named volumes & Bind mounts.md",
+                "file": "2 - project setup/full setup so for.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - project setup/Named volumes & Bind mounts.md"
+                "file": "2 - project setup/full setup so for.md"
               }
             }
           }
@@ -148,14 +148,17 @@
   },
   "active": "cfdce9ed3bc9807c",
   "lastOpenFiles": [
-    "2 - project setup/side notes.md",
+    "3 - DB + Tests + CI/side notes.md",
+    "2 - project setup/full setup so for.md",
+    "3 - DB + Tests + CI/Checklist.md",
+    "3 - DB + Tests + CI/Untitled.md",
+    "Untitled.md",
     "2 - project setup/Named volumes & Bind mounts.md",
+    "2 - project setup/side notes.md",
     "2 - project setup/Ruff.md",
     "2 - project setup/Mypy.md",
     "2 - project setup/GH Actions + CI.md",
     "2 - project setup/Checklist.md",
-    "3 - DB + Tests + CI/side notes.md",
-    "3 - DB + Tests + CI/Checklist.md",
     "2 - project setup/SQLAlchemy.md",
     "1 - environment setup/side notes.md",
     "1 - environment setup/Ubuntu.md",
@@ -177,9 +180,6 @@
     "1 - environment setup",
     "Week 1 - project setup/Ruff.md",
     "Week 1 - project setup/Mypy.md",
-    "Week 1 - project setup/GitHub.md",
-    "Week 1 - project setup/Alembic.md",
-    "Week 1 - project setup/Docker.md",
     "Week 1 - project setup"
   ]
 }
