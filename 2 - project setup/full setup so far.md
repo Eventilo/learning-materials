@@ -104,3 +104,7 @@ Przydatne komendy:
 * `poetry add` dodanie zależności
 * `poetry install` instalacja zależności (add robi to automatycznie)
 * `poetry shell` aktywacja wirtualnego środowiska 
+
+* `ruff check .` sprawdza wszystkie pliki w bieżącym katalogu (.) pod kątem problemów z kodem.
+* `ruff format .` formatowanie wszystkich plików w bieżącym katalogu (`.`), poprawiając błędy stylistyczne.
+* `mypy .` uruchomi analizę typów dla wszystkich plików w bieżącym katalogu.
